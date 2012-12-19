@@ -22,7 +22,7 @@ The following files are important: Understanding them will give a better insight
 			This is where you add new fields that need to get indexed.
 
 ../solr_local/conf/solrconfig.xml 
-	---> Search for <dataDir>. 
+	---> Search for 'dataDir'. 
 		 The path of the directory should point to the data directory within 
 
 ../solr_local/data 
